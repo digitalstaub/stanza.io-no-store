@@ -1,0 +1,24 @@
+{
+  "name": "stanza.io-no-store",
+  "version": "1.0.0",
+  "description": "adds xep-0334 no-store to messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalstaub/stanza.io-no-store.git"
+  },
+  "keywords": [
+    "stanza.io",
+    "xep-0334",
+    "mam"
+  ],
+  "author": "Benjamin Kotte",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/digitalstaub/stanza.io-no-store/issues"
+  },
+  "homepage": "https://github.com/digitalstaub/stanza.io-no-store#readme"
+}
